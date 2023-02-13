@@ -11,5 +11,5 @@ wandb login [wandb-key] --relogin
 ```sh
 gdown [dataset-gdown-link]
 ```
-
-6. Run all notebook cells to reproduce the experiment presented on the final project
+## Experiment
+3. Run all notebook cells to reproduce the experiment presented on the final project
