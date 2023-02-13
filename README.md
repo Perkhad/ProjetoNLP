@@ -1,7 +1,7 @@
 # SWNM - Sliding Window Pipeline
 This repository started to keep track of the NM Sliding Window Pipeline for training the main BERT model.
 
-#Steps before the experiment begins
+##Steps before the experiment begins
 1. Login to wandb
 ```sh
 wandb login [wandb-key] --relogin
